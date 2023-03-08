@@ -1,4 +1,4 @@
-Fully Convolutional Networks with Shapelet Features for Time Series Classification
+# Fully Convolutional Networks with Shapelet Features for Time Series Classification
 
 **This work has been accepted by "Applied Softe Computing".** [paper link](https://www.sciencedirect.com/science/article/abs/pii/S0020025522010532)
 
